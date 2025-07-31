@@ -1,0 +1,1 @@
+# Sample content for deploy_helm.sh
